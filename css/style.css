@@ -1,0 +1,51 @@
+body
+{
+    font-family: 'Cabin', sans-serif;
+    background:darkgrey;
+  
+}
+.logo
+{
+    font-family: 'PT Sans', sans-serif;
+} 
+.section-search 
+{
+    padding:5px !important;
+    font-size:18px !important;
+    width:100% !important;
+    border:#f4f4f4 3px solid !important;
+}
+.section-follow .fa-4x
+{
+    margin:5px 10px;
+}
+.guides
+{
+	padding-left:20%;
+    text-align: right;
+    
+
+}
+.search
+{
+	text-align: left;
+	margin-top:1%;
+}
+
+.button
+{
+	text-align: center;
+	margin-top:2%;
+
+}
+.profile_img
+{
+    padding-top:0.5em;
+    margin:0;
+}
+.info 
+{
+    padding: 5em;
+    
+}
+
