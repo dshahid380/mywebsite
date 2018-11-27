@@ -36,7 +36,7 @@
                     </a>
                     <ul class="right hide-on-med-and-down">
                          <li>
-                            <a href="index.php"><i class="fa fa-home"></i> <span class="white-text">Home </span></a>
+                            <a href="../index.php"><i class="fa fa-home"></i> <span class="white-text">Home </span></a>
                         </li>
                          <li>
                             <a  href='https://github.com/dshahid380'><span class="white-text">Projects </span> </i></a>
@@ -53,7 +53,7 @@
     <ul class="sidenav green accent-3" id="mobile-nav">
         
             <li>
-               <a href="index.php"><i class="fa fa-home"></i> <span class="white-text">Home </span></a>
+               <a href="../index.php"><i class="fa fa-home"></i> <span class="white-text">Home </span></a>
            </li>
             <li>
                <a  href='https://github.com/dshahid380'><i class="fa fa-suitcase"></i><span class="white-text">Projects </span> </i></a>
